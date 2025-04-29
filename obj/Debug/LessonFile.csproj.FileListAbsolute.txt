@@ -1,0 +1,11 @@
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\RevitTest\RevitTest\bin\Debug\RevitTest.dll
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\RevitTest\RevitTest\bin\Debug\RevitTest.pdb
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\RevitTest\RevitTest\obj\Debug\LessonFile.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\RevitTest\RevitTest\obj\Debug\SimpleForm.g.cs
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\RevitTest\RevitTest\obj\Debug\RevitTest_MarkupCompile.cache
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\RevitTest\RevitTest\obj\Debug\RevitTest_MarkupCompile.lref
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\RevitTest\RevitTest\obj\Debug\SimpleForm.baml
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\RevitTest\RevitTest\obj\Debug\RevitTest.g.resources
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\RevitTest\RevitTest\obj\Debug\LessonFile.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\RevitTest\RevitTest\obj\Debug\RevitTest.dll
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\RevitTest\RevitTest\obj\Debug\RevitTest.pdb
