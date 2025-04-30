@@ -1,0 +1,11 @@
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\CoreRevitModule\CoreRevitModule\bin\Debug\CoreRevitModule.dll
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\CoreRevitModule\CoreRevitModule\bin\Debug\CoreRevitModule.pdb
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\CoreRevitModule\CoreRevitModule\obj\Debug\CoreRevitModule.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\CoreRevitModule\CoreRevitModule\obj\Debug\UserWindow.g.cs
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\CoreRevitModule\CoreRevitModule\obj\Debug\CoreRevitModule_MarkupCompile.cache
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\CoreRevitModule\CoreRevitModule\obj\Debug\CoreRevitModule_MarkupCompile.lref
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\CoreRevitModule\CoreRevitModule\obj\Debug\UserWindow.baml
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\CoreRevitModule\CoreRevitModule\obj\Debug\CoreRevitModule.g.resources
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\CoreRevitModule\CoreRevitModule\obj\Debug\CoreRevitModule.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\CoreRevitModule\CoreRevitModule\obj\Debug\CoreRevitModule.dll
+C:\Users\franc\OneDrive\Programas\Aulas\C#\Projetos\Revit API\revit-api-course-1\v00\CoreRevitModule\CoreRevitModule\obj\Debug\CoreRevitModule.pdb
