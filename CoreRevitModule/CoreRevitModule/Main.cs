@@ -39,7 +39,7 @@ namespace CoreRevitModule
             var selectedElement = uidoc.Selection.GetElementIds().Select(
                 x => doc.GetElement(x)).First();
 
-            var value = selectedElement.LookupParameter("Comentários").AsString();
+            var value = selectedElement.get_Parameter(BuiltInParameter.ALL_MODEL_INSTANCE_COMMENTS).AsString();
             TaskDialog.Show("Message", value);
 
 

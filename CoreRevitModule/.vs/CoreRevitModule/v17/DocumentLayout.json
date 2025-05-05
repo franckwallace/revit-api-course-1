@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{447A3FA1-997F-40F2-B4C6-711EDA7DB8C7}|CoreRevitModule\\CoreRevitModule.csproj|solutionrelative:corerevitmodule\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{447A3FA1-997F-40F2-B4C6-711EDA7DB8C7}|CoreRevitModule\\CoreRevitModule.csproj|c:\\users\\franc\\onedrive\\programas\\aulas\\c#\\projetos\\revit api\\revit-api-course-1\\v00\\corerevitmodule\\corerevitmodule\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{447A3FA1-997F-40F2-B4C6-711EDA7DB8C7}|CoreRevitModule\\CoreRevitModule.csproj|C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Revit API\\revit-api-course-1\\v00\\CoreRevitModule\\corerevitmodule\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{447A3FA1-997F-40F2-B4C6-711EDA7DB8C7}|CoreRevitModule\\CoreRevitModule.csproj|solutionrelative:corerevitmodule\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{447A3FA1-997F-40F2-B4C6-711EDA7DB8C7}|CoreRevitModule\\CoreRevitModule.csproj|c:\\users\\franc\\onedrive\\programas\\aulas\\c#\\projetos\\revit api\\revit-api-course-1\\v00\\corerevitmodule\\corerevitmodule\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{447A3FA1-997F-40F2-B4C6-711EDA7DB8C7}|CoreRevitModule\\CoreRevitModule.csproj|C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Revit API\\revit-api-course-1\\v00\\CoreRevitModule\\corerevitmodule\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{447A3FA1-997F-40F2-B4C6-711EDA7DB8C7}|CoreRevitModule\\CoreRevitModule.csproj|solutionrelative:corerevitmodule\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -46,8 +46,7 @@
               "RelativeToolTip": "CoreRevitModule\\UserWindow.xaml.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAswCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T00:40:25.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T00:40:25.724Z"
             },
             {
               "$type": "Document",
@@ -58,8 +57,7 @@
               "ToolTip": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Revit API\\revit-api-course-1\\v00\\CoreRevitModule\\CoreRevitModule\\UserWindow.xaml",
               "RelativeToolTip": "CoreRevitModule\\UserWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-30T00:39:58.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T00:39:58.158Z"
             },
             {
               "$type": "Document",
@@ -69,7 +67,7 @@
               "RelativeDocumentMoniker": "CoreRevitModule\\Main.cs",
               "ToolTip": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Revit API\\revit-api-course-1\\v00\\CoreRevitModule\\CoreRevitModule\\Main.cs",
               "RelativeToolTip": "CoreRevitModule\\Main.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAAAuAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T00:39:35.683Z",
               "EditorCaption": ""
