@@ -39,10 +39,51 @@ namespace CoreRevitModule
             var selectedElement = uidoc.Selection.GetElementIds().Select(
                 x => doc.GetElement(x)).First();
 
-            var value = selectedElement.get_Parameter(BuiltInParameter.ALL_MODEL_INSTANCE_COMMENTS).AsString();
-            TaskDialog.Show("Message", value);
+            // var value = selectedElement.get_Parameter(BuiltInParameter.ALL_MODEL_INSTANCE_COMMENTS).AsString();
+            // var value = selectedElement.GetParameters("Mark").Select(x => x.Definition.Name);
+
+            // TaskDialog.Show("Message", value);
+
+            /////////////////////////////////
+
+            using (var transaction = new Transaction(doc, "Set values"))
+            {
+                transaction.Start();
+
+                selectedElement.get_Parameter(BuiltInParameter.ALL_MODEL_INSTANCE_COMMENTS).Set("NEW VALUE: PETER PARKER!");
+
+                transaction.Commit();
+            }
+
+            /////////////////// Exemplos de utilização de LINQ //////////////////////////
+
+            // 1 -list of all built in category
+
+            //var builtInCategoryId = new ElementId(BuiltInCategory.OST_Walls);
+            //var builtInCategory = Enum.GetValues(typeof(BuiltInCategory)).OfType<BuiltInCategory>();
+
+            //var window = new UserWindow(builtInCategory);
+            //window.ShowDialog();
+
+            // 2 -getting all the IDs
+
+            //var builtInCategoryId = new ElementId(BuiltInCategory.OST_Walls);
+            //var builtInCategory = Enum.GetValues(typeof(BuiltInCategory)).OfType<BuiltInCategory>().Select(x => (int)x);
+
+            //var window = new UserWindow(builtInCategory);
+            //window.ShowDialog();
 
 
+            // 3 - selecionando um Category por um ID
+
+            //var builtInCategoryId = new ElementId(BuiltInCategory.OST_Walls);
+            //var builtInCategory = Enum.GetValues(typeof(BuiltInCategory)).OfType<BuiltInCategory>().Where(x => (int)x == builtInCategoryId.IntegerValue);
+
+            //var window = new UserWindow(builtInCategory);
+            //window.ShowDialog();
+
+
+            ////////////////////////////////////////////////////////////////////////////////////
 
             //var families = new List<Element>();
             //foreach (var familyId in familyIds)
